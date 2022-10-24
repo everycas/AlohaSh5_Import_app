@@ -6,6 +6,7 @@ Project name:
 
 - Aloha POS - https://www.ncr.com/restaurants/aloha-restaurant-pos-system
 - Storehouse 5 - https://rkeeper.com/products/r_keeper/storehouse-5-skladskoy-uchet/
+- SH5 WEB API - https://docs.rkeeper.ru/sh5/protsedury-servera-19612514.html
 
 Goal: Get 'Aloha POS' (NCR) cash system data files:
 - dictionary dbf-tables: CAT.DBF, CIT.DBF, CMP.DBF, ITM.DBF, TDR.DBF, RSN.DBF;
