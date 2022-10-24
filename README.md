@@ -1,6 +1,4 @@
-Lang: Python 3.9
-
-Project type: console / no GUI
+Lang: Python 3.9 / Project type: console / no GUI
 
 Project name: 
 
