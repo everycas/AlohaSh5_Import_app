@@ -1,7 +1,10 @@
-Lang: Python 3.9 
+Lang: Python 3.9
+
+Project type: console / no GUI
+
 Project name: 
 
-# NCR Aloha POS to UCS Storehouse v5 Data Converter Utility (no GUI).
+# NCR Aloha POS to UCS Storehouse v5 Data Import Utility.
 
 - Aloha POS - https://www.ncr.com/restaurants/aloha-restaurant-pos-system
 - Storehouse 5 - https://rkeeper.com/products/r_keeper/storehouse-5-skladskoy-uchet/
