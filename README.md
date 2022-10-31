@@ -1,6 +1,4 @@
-Lang: Python 3.9 / Project type: console / no GUI
-
-Project name: 
+Lang: Python 3.9 / Win 10 
 
 # NCR Aloha POS to UCS Storehouse v5 Data Import Utility
 
@@ -14,7 +12,7 @@ Goal: Get 'Aloha POS' (NCR) cash system data files:
 
 and send dicts and goods expenditure trought SH5 WEB API v2 fuctionality to 'Storehouse v5'.
 
-Project structure:
+Structure:
 1. AlohaSh5.py - main functionality module;
 2. AlohaSh5.ini - main config-file;
 3. dbf_res.py - actions with aloha and sh dbf files (read, sort, filtering and write) module;
